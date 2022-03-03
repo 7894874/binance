@@ -1,0 +1,5 @@
+2021-04-19 23:47:37 [INFO] - [Sub] Connection [id: 0] created for ***Partial Book Depth for btcusdt***
+2021-04-19 23:47:37 [INFO] - [Sub][0] Connecting...
+2021-04-19 23:47:39 [INFO] - [Sub][0] Connected to server
+2021-04-19 23:47:39 [ERROR] - [Sub][0] Closing normally
+2021-04-19 23:47:39 [ERROR] - [Sub][0] Unexpected error: Socket closed
